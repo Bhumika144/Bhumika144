@@ -1,7 +1,7 @@
 <h1 align="center">Bhumika Bhavre</h1>
 
 <h3 align="center">
-Software Developer • 3rd Year IT Student
+I'm a 3rd Year B.Tech IT Student
 </h3>
 
 <p align="center">
