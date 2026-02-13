@@ -29,14 +29,13 @@ C • C++ • Python • JavaScript • Git • GitHub • MySQL • MongoDB •
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhumika144&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bhumika144&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumika144&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bhumika144&layout=compact&theme=github_dark" />
 </p>
 
-<br/>
 
 ---
 
