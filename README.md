@@ -18,23 +18,12 @@ Passionate about building scalable web applications and AI-powered solutions.
   <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,git,github,mysql,mongodb,html,css,react,reactnative,opencv,flask" />
 </p>
 
-<p align="center">
-C • C++ • Python • JavaScript • Git • GitHub • MySQL • MongoDB • HTML5 • CSS3 • ReactJS • React Native • OpenCV • Flask • YOLOv8 • Render
-</p>
+
 
 <br/>
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bhumika144&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bhumika144&layout=compact&theme=github_dark" />
-</p>
 
 
 ---
